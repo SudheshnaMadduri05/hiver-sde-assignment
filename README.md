@@ -53,7 +53,7 @@ hiver-sde-assignment/
 ├── .gitignore
 └── README.md
 
-##Technologies Used
+## Technologies Used
 Python
 Pandas
 NumPy
