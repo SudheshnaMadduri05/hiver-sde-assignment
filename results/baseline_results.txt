@@ -1,0 +1,23 @@
+BASELINE RESULTS
+============================
+
+Baseline 1 - Majority Class Accuracy: 0.1013
+Baseline 2 - TF-IDF + Logistic Regression Accuracy: 0.9473
+
+Baseline 2 Classification Report:
+                  precision    recall  f1-score   support
+
+ ACCOUNT_PROBLEM       0.97      0.95      0.96       400
+    CANCELLATION       0.95      0.96      0.96       400
+  DELIVERY_DELAY       0.94      0.97      0.96       400
+DELIVERY_PROBLEM       0.94      0.92      0.93       400
+ DIGITAL_SERVICE       0.96      0.96      0.96       400
+    ORDER_STATUS       0.92      0.93      0.92       400
+ PAYMENT_PROBLEM       0.95      0.94      0.94       400
+   PRIME_SERVICE       0.94      0.95      0.95       400
+ PRODUCT_PROBLEM       0.93      0.98      0.95       349
+   REFUND_RETURN       0.98      0.92      0.95       400
+
+        accuracy                           0.95      3949
+       macro avg       0.95      0.95      0.95      3949
+    weighted avg       0.95      0.95      0.95      3949

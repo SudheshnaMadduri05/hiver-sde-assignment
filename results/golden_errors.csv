@@ -1,0 +1,4 @@
+example_id,customer_text,gold_intent,verified,predicted_intent,correct
+5,@115821 shipping lets me down again. Not sure why I pay for prime or guaranteed shipping when 1-2 days really means 3-5. RIP Halloween fun🎃,ORDER_STATUS,,PRIME_SERVICE,False
+6,"@AmazonHelp I received the refund yesterday once processed by your billing team, I placed the order, made payment, you say order cancelled due to ctd..",ORDER_STATUS,,CANCELLATION,False
+9,@AmazonHelp where is my product are you looting customers for order no 406-3971997-7415546 not received till now i had paid,ORDER_STATUS,,PAYMENT_PROBLEM,False

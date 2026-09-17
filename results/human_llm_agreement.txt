@@ -1,0 +1,7 @@
+HUMAN–LLM JUDGE AGREEMENT
+========================================
+Number of examples: 30
+Human average score: 4.10/5
+LLM judge average score: 4.17/5
+Spearman correlation: 0.93
+P-value: 0.0000

@@ -1,0 +1,12 @@
+TOP 5 FAILURE ANALYSIS
+============================
+
+3. GOLD=ORDER_STATUS -> PREDICTED=CANCELLATION | COUNT=1
+Example: @AmazonHelp I received the refund yesterday once processed by your billing team, I placed the order, made payment, you say order cancelled due to ctd..
+
+3. GOLD=ORDER_STATUS -> PREDICTED=PAYMENT_PROBLEM | COUNT=1
+Example: @AmazonHelp where is my product are you looting customers for order no 406-3971997-7415546 not received till now i had paid
+
+3. GOLD=ORDER_STATUS -> PREDICTED=PRIME_SERVICE | COUNT=1
+Example: @115821 shipping lets me down again. Not sure why I pay for prime or guaranteed shipping when 1-2 days really means 3-5. RIP Halloween fun🎃
+

@@ -1,0 +1,10 @@
+GOLDEN SET EVALUATION
+============================
+
+Examples: 200
+Accuracy: 0.9850
+Macro Precision: 0.9857
+Macro Recall: 0.9850
+Macro F1: 0.9846
+
+Incorrect examples: 3
